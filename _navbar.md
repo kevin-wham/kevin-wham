@@ -4,7 +4,6 @@
 
   * [知行达摩院](https://www.zxdmy.com)
   * [CSDN](https://cxhit.blog.csdn.net/)
-  * [Gitee](https://gitee.com/ZXAcademy)
   * [GitHub](https://github.com/ZXAcademy)
 
 
